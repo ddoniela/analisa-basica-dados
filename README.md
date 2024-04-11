@@ -1,2 +1,2 @@
-# analisa-basica-dados
+# analise-basica-dados
 Aulas Victor Sena Icoma, BC Elas Tech
